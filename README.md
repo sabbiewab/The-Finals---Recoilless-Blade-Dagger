@@ -2,7 +2,7 @@
 
 Recoilless Blade dagger cosplay prop from *The Finals*, split into parts for easy printing and painting.
 
-![Dagger](img/Recoilless_Blade_Dagger_v1.png)
+![Dagger](img/Recoilless_Blade_Dagger_Hero.png)
 
 ## Split for easy assembly
 
