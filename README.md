@@ -5,3 +5,8 @@
 
 3D printable prop from the finals
 
+## Split for easy assembly
+- Use fillament to help aline the segmets
+
+![Exploded View Dagger](img/Recoilless_Blade_Dagger.png)
+
